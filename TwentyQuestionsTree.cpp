@@ -1,4 +1,4 @@
-// Created by Alok Gupta and Vincent Gandolfo on 6/5/14
+// Created by Alok Gupta on 6/5/14
 // Copyright (c) 2014 Alok Gupta. All rights reserved
 
 
